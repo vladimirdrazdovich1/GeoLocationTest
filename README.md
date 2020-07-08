@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before run
+You need to create .env.local file by .env.local.example and adding your google API key 
+https://developers.google.com/maps/documentation/javascript/get-api-key?hl=ru
+
 ## Available Scripts
 
 In the project directory, you can run:
